@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:KLesiu/LGYM-APP-API.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:KLesiu/LGYM-APP-MOBILE.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:KLesiu/LGYM-APP-FRONTEND.git

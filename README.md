@@ -38,16 +38,16 @@ Here're some of the project's best features:
 
 <h2>WEB VIEWS </h2>
 <div display="flex" justify-content="space-around" flex-wrap="wrap">
-<img width="33%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/500cd838-59e7-4614-b9ff-45f8823852f7"/>
-<img width="33%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/c5ba88d6-d4f5-4c61-abe5-ea8deade862a" />
-<img width="33%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/1ad2c7ad-c5d3-468f-b5ed-2f6b54b0bf50" />
+<img width="25%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/500cd838-59e7-4614-b9ff-45f8823852f7"/>
+<img width="25%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/c5ba88d6-d4f5-4c61-abe5-ea8deade862a" />
+<img width="25%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/1ad2c7ad-c5d3-468f-b5ed-2f6b54b0bf50" />
 </div>
 
 <h2>MOBILE VIEWS</h2>
 <div display="flex" justify-content="space-around" flex-wrap="wrap">
-<img width="33%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/0bf85be1-8e08-4275-8dea-a0b03baa1a2c" />
-<img width="33%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/c459d0ed-564b-4067-a485-8ae96b159bba" />
-<img width="33%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/911901c6-1f76-4b0f-94db-f83c3309ee30" />
+<img width="25%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/0bf85be1-8e08-4275-8dea-a0b03baa1a2c" />
+<img width="25%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/c459d0ed-564b-4067-a485-8ae96b159bba" />
+<img width="25%" src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/911901c6-1f76-4b0f-94db-f83c3309ee30" />
 </div>
 
 <h2>💻 Built with</h2>

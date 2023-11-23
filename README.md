@@ -1,5 +1,6 @@
 <h1 align = "center"><img src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/b635ba95-7da3-48f0-a277-08bcea21d97b" /></h1>
 <h2>🚀 DEMO</h2>
+<p>Designed only for mobile devices</p>
 <a href="https://lgym-app.vercel.app/">lgym-app.vercel.app</a>
 
 <h2>🛠️ MAIN STACK:</h2>

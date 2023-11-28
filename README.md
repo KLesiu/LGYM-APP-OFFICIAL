@@ -2,7 +2,7 @@
 <h2>🚀 DEMO</h2>
 <p>Designed only for mobile devices</p>
 <a target="_blank" href="https://lgym-app.vercel.app/">lgym-app.vercel.app</a>
-<a target="_blank" href="https://megawrzuta.pl/download/4ec3b3acba4b3e35acd084527312abef.html"> Download apk here </a>
+<a target="_blank" href="https://megawrzuta.pl/download/27b51f9e7d2072c9a848791d733e1ffd.html"> Download apk here </a>
 
 <h2>🛠️ MAIN STACK:</h2>
 <ol>

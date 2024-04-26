@@ -2,7 +2,7 @@
 <h2>🚀 DEMO</h2>
 <p>Designed only for mobile devices</p>
 <a target="_blank" href="https://lgym-app.vercel.app/">lgym-app.vercel.app</a>
-<a target="_blank" href="https://megawrzuta.pl/download/4ec3b3acba4b3e35acd084527312abef.html"> Download apk here </a>
+<a target="_blank" href="https://megawrzuta.pl/download/27b51f9e7d2072c9a848791d733e1ffd.html"> Download apk here </a>
 
 <h2>🛠️ MAIN STACK:</h2>
 <ol>
@@ -36,7 +36,7 @@ Here're some of the project's best features:
 </ul></li>   
 
 <h2>History and Basic Information</h2>
-<p text-align="justify">LGYM-APP is an application that allows you to track your progress while training at the gym. The idea was taken from my own experiences. During weekly Sunday sessions of copying results from a notebook on a smartphone to a paper notebook, I came up with the idea of using my coding skills and creating my own application. This decision was driven by the lack of a suitable and fully customizable application that provides users with freedom in choosing exercises, workout plans, and training systems. The application works both in the browser, but due to certain browser limitations, e.g. in terms of freely minimizing the application to open another application, e.g. checking messenger, etc. I decided to try my hand at mobile applications. I rewrote my application using React Native with Expo. The official launch of the mobile application is set for November 27.11.2023 and it will be available for download both from the LGYM-APP website provided above and also from the README file.</p>
+<p text-align="justify">LGYM-APP is an application that allows you to track your progress while training at the gym. The idea was taken from my own experiences. During weekly Sunday sessions of copying results from a notebook on a smartphone to a paper notebook, I came up with the idea of using my coding skills and creating my own application. This decision was driven by the lack of a suitable and fully customizable application that provides users with freedom in choosing exercises, workout plans, and training systems. The application works both in the browser, but due to certain browser limitations, e.g. in terms of freely minimizing the application to open another application, e.g. checking messenger, etc. I decided to try my hand at mobile applications. I rewrote my application using React Native with Expo. The official launch of the mobile application is available for download  from the README file.</p>
 
 <h2>WEB VIEWS </h2>
 <div display="flex" justify-content="space-around" flex-wrap="wrap">

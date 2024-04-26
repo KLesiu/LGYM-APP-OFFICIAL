@@ -7,3 +7,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:KLesiu/LGYM-APP-FRONTEND.git
+[submodule "apiv2"]
+	path = apiv2
+	url = https://github.com/KLesiu/LGYM-APP-APIv2.git

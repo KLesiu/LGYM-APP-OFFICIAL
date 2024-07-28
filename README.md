@@ -1,8 +1,7 @@
 <h1 align = "center"><img src="https://github.com/KLesiu/LGYM-APP-OFFICIAL/assets/117046128/b635ba95-7da3-48f0-a277-08bcea21d97b" /></h1>
 <h2>🚀 DEMO</h2>
 <p>Designed only for mobile devices</p>
-<a target="_blank" href="https://lgym-app.vercel.app/">lgym-app.vercel.app</a>
-<a target="_blank" href="https://megawrzuta.pl/download/27b51f9e7d2072c9a848791d733e1ffd.html"> Download apk here </a>
+
 
 <h2>🛠️ MAIN STACK:</h2>
 <ol>
@@ -10,13 +9,17 @@
 <a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> TypeScript	
 </li>
 <li>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> ReactJS
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="40" height="40"/></a> ReactNative
 </li>
 <li>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> MongoDB
 </li>
 <li>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/></a> ExpressJS
+</li>
+<li>
+<a href="https://vuejs.org/">
+<img src="https://vue3-icon-picker.pages.dev/assets/logo.03d6d6da.png"  width="40" height="40" alt="vue"/></a> Vue 3
 </li>
 </ol>
 
@@ -31,7 +34,7 @@ Here're some of the project's best features:
 <li>History of all training sessions in one place with a preview of results and dates</li>   
 <li>Section for entering powerlifting records and calculating total</li>   
 <li>Possibility to view previous training of the same type during the current training session</li>   
-<li>(FUTURE) Rank system based on the ELO point algorithm. With progress and regularity of training your ELO increases and you receive a new rank on the main page of your profile but when you skip training and do not record progress you lose ELO points and your rank drops!</li>   
+<li>Rank system based on the ELO point algorithm. With progress and regularity of training your ELO increases and you receive a new rank on the main page of your profile but when you skip training and do not record progress you lose ELO points and your rank drops!</li>   
 <li>(FUTURE) User ranking based on ELO points
 </ul></li>   
 

@@ -13,3 +13,6 @@
 [submodule "page"]
 	path = page
 	url = https://github.com/KLesiu/LGYM-APP-PAGE.git
+[submodule "apiv3"]
+	path = apiv3
+	url = https://github.com/Wan-de-Rock/LGYM-APP-API.git

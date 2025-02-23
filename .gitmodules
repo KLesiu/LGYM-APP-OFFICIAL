@@ -16,3 +16,9 @@
 [submodule "apiv3"]
 	path = apiv3
 	url = https://github.com/Wan-de-Rock/LGYM-APP-API.git
+[submodule "LGYM-API"]
+	path = LGYM-API
+	url = https://github.com/withelm/LGYM-API.git
+[submodule "apiv4"]
+	path = apiv4
+	url = https://github.com/withelm/LGYM-API.git

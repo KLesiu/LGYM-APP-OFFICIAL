@@ -39,7 +39,7 @@
 <h2>🧐 Features</h2>
 Here're some of the project's best features:
 <ul>
-    <li><strong>Authorization and Authentication</strong>: Secure user login via PassportJS and JWT.</li>
+    <li><strong>Authorization and Authentication</strong>: Secure user login via JWT.</li>
     <li><strong>Personalized Workout Plans</strong>: Create a custom workout plan by selecting the number of training days and exercises, and set your own series and repetitions for each.</li>
     <li><strong>Custom Training Sessions</strong>: Add new sessions based on your predefined training plans.</li>
     <li><strong>Comprehensive Training History</strong>: Access all past training sessions in one place with an overview of results and dates.</li>
@@ -53,13 +53,14 @@ Here're some of the project's best features:
     <li><strong>Calendar-Based Training History</strong>: A user-friendly calendar in the "History" section for a clear view of your workout history.</li>
     <li><strong>Competitive ELO Rankings</strong>: Users can compete for top spots on the leaderboard, motivating them to continue progressing in their training.</li>
     <li><strong>Ranking System with ELO Thresholds</strong>: Each rank has a set ELO point threshold, adding an extra motivational layer for progression.</li>
-    <li><strong>Automatic Record Updates</strong>: After each training session, personal records are automatically updated and saved in the "Records" section.</li>
-    <li><strong>Body Measurements Tracking</strong>: Users can log body measurements to track changes in their physique over weeks, months, or years.</li>
+    <li>Users can add and manage the gyms they train at, linking each workout session to a specific gym. This feature ensures consistency in training data by accounting for equipment variations between different gyms. When starting a workout, users can select their current gym, allowing for more accurate progress tracking and performance comparisons. Additionally, users can view their training history filtered by gym location, helping them analyze performance trends based on available equipment.</li>
+    <li><strong>Progress Graphs</strong>: Visualize progress over time for specific exercises.</li>
 </ul>
 
 <h2>Upcoming Features</h2>
 <ul>
-    <li><strong>Progress Graphs</strong>: Visualize progress over time for specific exercises, workout days, and body measurements.</li>
+    <li><strong>Automatic Record Updates</strong>: After each training session, personal records are automatically updated and saved in the "Records" section.</li>
+    <li><strong>Body Measurements Tracking</strong>: Users can log body measurements to track changes in their physique over weeks, months, or years.</li>
     <li><strong>Trainer Module</strong>: Users with a trainer account, with the permission of their trainees, can access their results and update their progress during personal training sessions, allowing trainees to fully focus on their workouts.</li>
 </ul> 
 
@@ -85,13 +86,15 @@ Here're some of the project's best features:
 Technologies used in the project:
 <ul>
 <li>TypeScript</li>
-<li>ReactJS</li>
+<li>React Native</li>
+<li>C#</li>
+<li>.NET Entity Framework</li>
+<li>PostgreSQL</li>
 <li>NodeJS</li>
 <li>ExpressJS</li>
 <li>MongoDB</li>
 <li>CSS</li>
 <li>JEST</li>
-<li>React Native</li>
 <li>Expo</li>
 <li>Figma</li>
 <li>Git</li>
@@ -104,8 +107,7 @@ Technologies used in the project:
 <li>PassportJS</li>
 </ul>
 
-<h2>🛡️ License:</h2>
-This project is licensed under the GPL-3.0 license
+
 
 
 

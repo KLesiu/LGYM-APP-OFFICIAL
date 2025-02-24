@@ -20,15 +20,15 @@
 </li>
 <li>
 <a href="https://learn.microsoft.com/pl-pl/dotnet/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Dotnet.svg"  width="40" height="40" alt="vue"/></a> .NET 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1280px-Microsoft_.NET_logo.svg.png"  width="40" height="40" alt="vue"/></a> .NET 
 </li>
 <li>
-<a href="https://vuejs.org/">
-<img src="https://vue3-icon-picker.pages.dev/assets/logo.03d6d6da.png"  width="40" height="40" alt="vue"/></a> Entity Framework
+<a href="https://learn.microsoft.com/en-us/ef/">
+<img src="https://zdalnyadmin.com.pl/wp-content/uploads/2017/05/icon-entityframework6.png"  width="40" height="40" alt="vue"/></a> Entity Framework
 </li>
 <li>
-<a href="https://vuejs.org/">
-<img src="https://vue3-icon-picker.pages.dev/assets/logo.03d6d6da.png"  width="40" height="40" alt="vue"/></a> PostgreSQL
+<a href="https://www.postgresql.org/">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png"  width="40" height="40" alt="vue"/></a> PostgreSQL
 </li>
 <li>
 <a href="https://vuejs.org/">

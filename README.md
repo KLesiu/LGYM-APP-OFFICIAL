@@ -1,6 +1,4 @@
 <h1 align = "center"><img src="https://github.com/KLesiu/LGYM-APP-MOBILE/blob/f7d49c104fdda2f553e03849f61c1ecedc5cb259/assets/logo300.png" /></h1>
-<h2>🚀DEMO</h2>
-<p>Designed only for mobile devices</p>
 
 <h2>🛠️ MAIN STACK:</h2>
 <ol>
@@ -15,6 +13,22 @@
 </li>
 <li>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/></a> ExpressJS
+</li>
+<li>
+<a href="https://learn.microsoft.com/pl-pl/dotnet/csharp/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"  width="40" height="40" alt="vue"/></a> C#
+</li>
+<li>
+<a href="https://learn.microsoft.com/pl-pl/dotnet/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Dotnet.svg"  width="40" height="40" alt="vue"/></a> .NET 
+</li>
+<li>
+<a href="https://vuejs.org/">
+<img src="https://vue3-icon-picker.pages.dev/assets/logo.03d6d6da.png"  width="40" height="40" alt="vue"/></a> Entity Framework
+</li>
+<li>
+<a href="https://vuejs.org/">
+<img src="https://vue3-icon-picker.pages.dev/assets/logo.03d6d6da.png"  width="40" height="40" alt="vue"/></a> PostgreSQL
 </li>
 <li>
 <a href="https://vuejs.org/">

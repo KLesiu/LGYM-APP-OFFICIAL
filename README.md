@@ -28,7 +28,7 @@
 </li>
 <li>
 <a href="https://www.postgresql.org/">
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png"  width="40" height="40" alt="vue"/></a> PostgreSQL
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.png"  width="40" height="40" alt="vue"/></a> PostgreSQL
 </li>
 <li>
 <a href="https://vuejs.org/">

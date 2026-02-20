@@ -10,9 +10,13 @@
 [submodule "apiv2"]
 	path = apiv2
 	url = https://github.com/KLesiu/LGYM-APP-APIv2.git
+[submodule "apiv2"]
+	path = apiv3
+	url = https://github.com/KLesiu/LGYM-APP-APIv3.git
 [submodule "page"]
 	path = page
 	url = https://github.com/KLesiu/LGYM-APP-PAGE.git
 [submodule "LGYM-API"]
 	path = LGYM-API
 	url = https://github.com/withelm/LGYM-API.git
+	

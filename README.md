@@ -1,7 +1,8 @@
-<h1 align = "center"><img src="https://github.com/KLesiu/LGYM-APP-MOBILE/blob/f7d49c104fdda2f553e03849f61c1ecedc5cb259/assets/logo300.png" /></h1>
+<h1 align = "center"><img width="500" height="500" alt="logoLGYMNewX" src="https://github.com/user-attachments/assets/83c60ecf-bd4b-4a1d-8a57-6e56159c12ca" /></h1>
+
 
 <h2>🛠️ MAIN STACK:</h2>
-<ol>
+<ul>
 <li>
 <a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> TypeScript	
 </li>
@@ -15,70 +16,77 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/></a> ExpressJS
 </li>
 <li>
-<a href="https://learn.microsoft.com/pl-pl/dotnet/csharp/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"  width="40" height="40" alt="vue"/></a> C#
-</li>
-<li>
-<a href="https://learn.microsoft.com/pl-pl/dotnet/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1280px-Microsoft_.NET_logo.svg.png"  width="40" height="40" alt="vue"/></a> .NET 
-</li>
-<li>
-<a href="https://learn.microsoft.com/en-us/ef/">
-<img src="https://zdalnyadmin.com.pl/wp-content/uploads/2017/05/icon-entityframework6.png"  width="40" height="40" alt="vue"/></a> Entity Framework
-</li>
-<li>
-<a href="https://www.postgresql.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.png"  width="40" height="40" alt="vue"/></a> PostgreSQL
-</li>
-<li>
 <a href="https://vuejs.org/">
 <img src="https://vue3-icon-picker.pages.dev/assets/logo.03d6d6da.png"  width="40" height="40" alt="vue"/></a> Vue 3
 </li>
-</ol>
-
-<h2>🧐 Features</h2>
-Here're some of the project's best features:
-<ul>
-    <li><strong>Authorization and Authentication</strong>: Secure user login via JWT.</li>
-    <li><strong>Personalized Workout Plans</strong>: Create a custom workout plan by selecting the number of training days and exercises, and set your own series and repetitions for each.</li>
-    <li><strong>Custom Training Sessions</strong>: Add new sessions based on your predefined training plans.</li>
-    <li><strong>Comprehensive Training History</strong>: Access all past training sessions in one place with an overview of results and dates.</li>
-    <li><strong>Powerlifting Records Tracking</strong>: Input your records, and the app will calculate your total.</li>
-    <li><strong>Session-based Exercise Comparison</strong>: View past training results for the same type of workout during a current session.</li>
-    <li><strong>ELO-Based Ranking System</strong>: The app calculates your ELO points based on your performance during each workout session. Consistent progress and regularity increase your ELO points, earning you higher ranks displayed on your profile. Conversely, missed workouts and lack of progress will reduce your ELO points and can lower your rank.</li>
-    <li><strong>Global and Custom Exercise Database</strong>: Users can select from a global exercise database or add their own custom exercises with personalized names and descriptions.</li>
-    <li><strong>Automatic Progress Backup</strong>: The app stores your training progress in the device's local storage during each session, preventing data loss if your device turns off unexpectedly.</li>
-    <li><strong>Dynamic Exercise Management</strong>: Swap, add, remove, or compare exercises dynamically during a workout session.</li>
-    <li><strong>Flexible Training Schedules</strong>: Create multiple workout days tailored to your goals and requirements.</li>
-    <li><strong>Calendar-Based Training History</strong>: A user-friendly calendar in the "History" section for a clear view of your workout history.</li>
-    <li><strong>Competitive ELO Rankings</strong>: Users can compete for top spots on the leaderboard, motivating them to continue progressing in their training.</li>
-    <li><strong>Ranking System with ELO Thresholds</strong>: Each rank has a set ELO point threshold, adding an extra motivational layer for progression.</li>
-    <li>Users can add and manage the gyms they train at, linking each workout session to a specific gym. This feature ensures consistency in training data by accounting for equipment variations between different gyms. When starting a workout, users can select their current gym, allowing for more accurate progress tracking and performance comparisons. Additionally, users can view their training history filtered by gym location, helping them analyze performance trends based on available equipment.</li>
-    <li><strong>Progress Graphs</strong>: Visualize progress over time for specific exercises.</li>
 </ul>
 
-<h2>Upcoming Features</h2>
+<h2>✨ Features</h2>
+
+<p><code>LGYM-APP-MOBILE</code> is designed as a comprehensive training assistant. The main features (inferred from the component structure) include:</p>
+
 <ul>
-    <li><strong>Automatic Record Updates</strong>: After each training session, personal records are automatically updated and saved in the "Records" section.</li>
-    <li><strong>Body Measurements Tracking</strong>: Users can log body measurements to track changes in their physique over weeks, months, or years.</li>
-    <li><strong>Trainer Module</strong>: Users with a trainer account, with the permission of their trainees, can access their results and update their progress during personal training sessions, allowing trainees to fully focus on their workouts.</li>
-</ul> 
-
-<h2>History and Basic Information</h2>
-<p text-align="justify">
-    LGYM-APP is an application that allows you to track your progress while training at the gym. The idea was inspired by my own experiences. During weekly Sunday sessions of copying results from a smartphone to a paper notebook, I came up with the idea of using my coding skills to create my own application. This decision was driven by the lack of a suitable and fully customizable app that provides users with freedom in choosing exercises, workout plans, and training systems. Initially, the application was developed for browser use, but limitations such as restricted multitasking (e.g., minimizing the app to check messages) led me to try mobile app development. I rewrote the application using React Native with Expo. Currently, LGYM-APP is in a closed Beta testing phase on Google Play and will soon be released as a publicly available app on the Play Store. If you're interested in joining the testing phase, please reach out via email at <a href="mailto:kubaxl222@gmail.com">kubaxl222@gmail.com</a>.
-</p>
-
+    <li><strong>Authentication:</strong> User Login and Registration.</li>
+    <li><strong>Home Screen (Start):</strong> A dashboard displaying progress, the last workout, and user rankings.</li>
+    <li><strong>Training Module:</strong>
+        <ul>
+            <li>Starting a training session.</li>
+            <li>Selecting a training plan for the day.</li>
+            <li>Choosing the gym where the workout is taking place.</li>
+            <li>Active tracking of exercise progress (sets, reps, weight) with a stopwatch.</li>
+            <li>A summary of the completed workout.</li>
+        </ul>
+    </li>
+    <li><strong>Training Plans:</strong>
+        <ul>
+            <li>Creating, browsing, and managing multiple training plans.</li>
+            <li>Advanced training day creator (adding exercises, defining sets).</li>
+        </ul>
+    </li>
+    <li><strong>Exercise Database:</strong>
+        <ul>
+            <li>Browsing an extensive list of exercises.</li>
+            <li>Filtering exercises by muscle groups (e.g., Chest, Back, Legs).</li>
+            <li>Creating custom exercises.</li>
+            <li>Viewing exercise details and performance history.</li>
+        </ul>
+    </li>
+    <li><strong>Workout History:</strong>
+        <ul>
+            <li>A detailed log of all completed training sessions.</li>
+        </ul>
+    </li>
+    <li><strong>Records:</strong>
+        <ul>
+            <li>Automatic tracking and display of strength records (likely 1 Rep Max) for individual exercises.</li>
+        </ul>
+    </li>
+    <li><strong>User Profile:</strong>
+        <ul>
+            <li>Viewing the user's profile.</li>
+            <li>A ranking system (e.g., Elo) and progress tracking.</li>
+        </ul>
+    </li>
+    <li><strong>Gym Management:</strong>
+        <ul>
+            <li>Ability to add and edit personal gyms (e.g., home gym, commercial gym)</li>
+        </ul>
+    </li>
+</ul>
 
 
 <h2>MOBILE VIEWS</h2>
+
 <div display="flex" justify-content="space-around" flex-wrap="wrap">
-<img width="25%" src="https://github.com/KLesiu/LGYM-APP-MOBILE/blob/main/assets/views/start.png?raw=true" />
-<img width="25%" src="https://github.com/KLesiu/LGYM-APP-MOBILE/blob/main/assets/views/training.png?raw=true" />
-<img width="25%" src="https://github.com/KLesiu/LGYM-APP-MOBILE/blob/main/assets/views/exercises.png?raw=true" />
-<img width="25%" src="https://github.com/KLesiu/LGYM-APP-MOBILE/blob/main/assets/views/history.png?raw=true" />
-<img width="25%" src="https://github.com/KLesiu/LGYM-APP-MOBILE/blob/main/assets/views/preload.png?raw=true" />
-<img width="25%" src="https://github.com/KLesiu/LGYM-APP-MOBILE/blob/main/assets/views/records.png?raw=truee" />
+<img width="25%" src="https://github.com/user-attachments/assets/6b5ffd01-dcef-4bfc-b65b-154eba3836c6" />
+<img width="25%" alt="Ćwiczenia BodyParts" src="https://github.com/user-attachments/assets/ca174034-319e-435f-82f2-891d0c2cd7ae" />
+<img width="25%" src="https://github.com/user-attachments/assets/3b77b6ad-fb34-431f-be06-4b367b08dec4" />
+<img width="25%"  alt="Exercise Details" src="https://github.com/user-attachments/assets/f3099bf5-7e51-422a-9f92-dd416221fd98" />
+<img width="25%"  alt="Create plan day" src="https://github.com/user-attachments/assets/43b8be3e-09e9-460e-8abf-54fcc09382ec" />
+<img width="25%" alt="Gyms" src="https://github.com/user-attachments/assets/8e1394c8-16fe-469f-9342-86e373c32b72" />
+<img width="25%" alt="Plan" src="https://github.com/user-attachments/assets/c68b4db6-ad17-4867-9ab1-3239e55fcde2" />
+<img width="25%" alt="History" src="https://github.com/user-attachments/assets/56c8ee62-1d59-495c-aed6-d7c43e7f38ce" />
+<img width="25%" alt="Training" src="https://github.com/user-attachments/assets/693d64a3-dea6-48a0-a206-2e4f60acca50" />
 
 </div>
 
@@ -87,9 +95,7 @@ Technologies used in the project:
 <ul>
 <li>TypeScript</li>
 <li>React Native</li>
-<li>C#</li>
-<li>.NET Entity Framework</li>
-<li>PostgreSQL</li>
+<li>Vue 3</li>
 <li>NodeJS</li>
 <li>ExpressJS</li>
 <li>MongoDB</li>

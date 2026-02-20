@@ -4,20 +4,45 @@
 <h2>🛠️ MAIN STACK:</h2>
 <ul>
 <li>
-<a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> TypeScript	
+<a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
+TypeScript	
 </li>
+
 <li>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="40" height="40"/></a> ReactNative
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="40" height="40"/></a> 
+ReactNative
 </li>
+
 <li>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> MongoDB
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
+PostgreSQL
 </li>
+
 <li>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/></a> ExpressJS
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
+.NET C#
 </li>
+
+<li>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
+MongoDB
+</li>
+
+<li>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/></a> 
+ExpressJS
+</li>
+
 <li>
 <a href="https://vuejs.org/">
-<img src="https://vue3-icon-picker.pages.dev/assets/logo.03d6d6da.png"  width="40" height="40" alt="vue"/></a> Vue 3
+<img src="https://vue3-icon-picker.pages.dev/assets/logo.03d6d6da.png"  width="40" height="40" alt="vue"/></a> 
+Vue 3
 </li>
 </ul>
 
@@ -98,6 +123,10 @@ Technologies used in the project:
 <li>Vue 3</li>
 <li>NodeJS</li>
 <li>ExpressJS</li>
+<li>.NET 10</li>
+<li>C#</li>
+<li>Entity Framework</li>
+<li>PostgreSQL</li>
 <li>MongoDB</li>
 <li>CSS</li>
 <li>JEST</li>
